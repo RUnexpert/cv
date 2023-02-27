@@ -83,8 +83,16 @@ li {
 .experience-wrapper {
   margin-top: 10px;
   padding-left: 70px;
+}
+
+.rschool-logo {
   background: url(./logo-rs.svg) 10px no-repeat;
   background-size: 50px;
+}
+
+.web-logo {
+  background: url(./logo-web.svg) 19px no-repeat;
+  background-size: 40px;
 }
 
 .project-info {
